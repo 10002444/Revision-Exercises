@@ -6,7 +6,18 @@ namespace Question3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int x;
+            int y;
+            int z;
+
+            x = 50;
+            y = 3;
+
+            z = x / y;
+
+            Console.WriteLine("50 / 3 =");
+            Console.WriteLine(z);
+            Console.ReadLine();
         }
     }
 }

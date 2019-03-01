@@ -8,3 +8,4 @@
 /Users/marisawadsworth/Desktop/COURSE 2019/6212/Revision Exercises/RevisionExercises/Question2/obj/Release/netcoreapp2.1/Question2.AssemblyInfo.cs
 /Users/marisawadsworth/Desktop/COURSE 2019/6212/Revision Exercises/RevisionExercises/Question2/obj/Release/netcoreapp2.1/Question2.dll
 /Users/marisawadsworth/Desktop/COURSE 2019/6212/Revision Exercises/RevisionExercises/Question2/obj/Release/netcoreapp2.1/Question2.pdb
+/Users/marisawadsworth/Desktop/COURSE 2019/6212/Revision Exercises/RevisionExercises/Question2/obj/Release/netcoreapp2.1/Question2.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+/Users/marisawadsworth/Desktop/COURSE 2019/6212/Revision Exercises/RevisionExercises/Question4/bin/Release/netcoreapp2.1/Question4.deps.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6212/Revision Exercises/RevisionExercises/Question4/bin/Release/netcoreapp2.1/Question4.runtimeconfig.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6212/Revision Exercises/RevisionExercises/Question4/bin/Release/netcoreapp2.1/Question4.runtimeconfig.dev.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6212/Revision Exercises/RevisionExercises/Question4/bin/Release/netcoreapp2.1/Question4.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6212/Revision Exercises/RevisionExercises/Question4/bin/Release/netcoreapp2.1/Question4.pdb
+/Users/marisawadsworth/Desktop/COURSE 2019/6212/Revision Exercises/RevisionExercises/Question4/obj/Release/netcoreapp2.1/Question4.csprojAssemblyReference.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6212/Revision Exercises/RevisionExercises/Question4/obj/Release/netcoreapp2.1/Question4.csproj.CoreCompileInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6212/Revision Exercises/RevisionExercises/Question4/obj/Release/netcoreapp2.1/Question4.AssemblyInfoInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6212/Revision Exercises/RevisionExercises/Question4/obj/Release/netcoreapp2.1/Question4.AssemblyInfo.cs
+/Users/marisawadsworth/Desktop/COURSE 2019/6212/Revision Exercises/RevisionExercises/Question4/obj/Release/netcoreapp2.1/Question4.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6212/Revision Exercises/RevisionExercises/Question4/obj/Release/netcoreapp2.1/Question4.pdb
