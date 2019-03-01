@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{AD775279-4B84-45B5-A4C1-542A033F2A06}|Default">
+  <MonoDevelop.Ide.ItemProperties.Question1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Question3 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Question3/Program.cs">
+    <Files>
+      <File FileName="Question1/Program.cs" Line="15" Column="1" />
+      <File FileName="Question2/Program.cs" Line="13" Column="1" />
+      <File FileName="Question3/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RevisionExercises" expanded="True">
+            <Node name="Question1" expanded="True" />
+            <Node name="Question2" expanded="True" />
+            <Node name="Question3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Question2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
