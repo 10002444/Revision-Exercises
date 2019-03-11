@@ -1,17 +1,12 @@
-﻿<Properties StartupConfiguration="{10AA2D86-0470-4316-91F2-83A7BBA180B1}|Default">
+﻿<Properties StartupConfiguration="{D795E90A-146D-493D-BA4F-864B1AD58410}|Default">
   <MonoDevelop.Ide.ItemProperties.Question1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Question3 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Question6/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Question7/Program.cs">
     <Files>
-      <File FileName="Question1/Program.cs" Line="15" Column="1" />
-      <File FileName="Question2/Program.cs" Line="23" Column="2" />
-      <File FileName="../../C# Fundamentals by Bob Tabor/C-Sharp/Variables/Program.cs" Line="15" Column="13" />
-      <File FileName="Question4/Program.cs" Line="21" Column="32" />
-      <File FileName="Question5/Program.cs" Line="13" Column="13" />
-      <File FileName="Question3/Program.cs" Line="20" Column="32" />
-      <File FileName="Question6/Program.cs" Line="20" Column="1" />
-      <File FileName="Question7/Program.cs" Line="1" Column="1" />
       <File FileName="Question6/Question6.csproj" Line="9" Column="1" />
+      <File FileName="Question6/Program.cs" Line="17" Column="1" />
+      <File FileName="Question1/Program.cs" Line="15" Column="1" />
+      <File FileName="Question7/Program.cs" Line="13" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -23,9 +18,13 @@
             <Node name="Question4" expanded="True" />
             <Node name="Question5" expanded="True" />
             <Node name="Question6" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Question7" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
-            <Node name="Question7" expanded="True" />
           </Node>
         </State>
       </Pad>
