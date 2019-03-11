@@ -1,12 +1,13 @@
-﻿<Properties StartupConfiguration="{D795E90A-146D-493D-BA4F-864B1AD58410}|Default">
+﻿<Properties StartupConfiguration="{60C2822E-25C9-4F35-9682-CA71DAFC73D9}|Default">
   <MonoDevelop.Ide.ItemProperties.Question1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Question3 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Question7/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Question8/Program.cs">
     <Files>
       <File FileName="Question6/Question6.csproj" Line="9" Column="1" />
       <File FileName="Question6/Program.cs" Line="17" Column="1" />
       <File FileName="Question1/Program.cs" Line="15" Column="1" />
-      <File FileName="Question7/Program.cs" Line="13" Column="1" />
+      <File FileName="Question7/Program.cs" Line="29" Column="26" />
+      <File FileName="Question8/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,12 +18,9 @@
             <Node name="Question3" expanded="True" />
             <Node name="Question4" expanded="True" />
             <Node name="Question5" expanded="True" />
-            <Node name="Question6" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="SdkDependencies" expanded="True" />
-              </Node>
-            </Node>
-            <Node name="Question7" expanded="True">
+            <Node name="Question6" expanded="True" />
+            <Node name="Question7" expanded="True" />
+            <Node name="Question8" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -30,6 +28,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Question8 FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Question5 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Question4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
@@ -40,5 +39,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Question7 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Question7 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
